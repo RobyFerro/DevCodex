@@ -18,6 +18,7 @@ Feel free to explore the resources listed below to deepen your understanding and
 
 - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://mirkorap16.gitbook.io/clean-architecture/)
 - [The Clean Architecture - Beginner's Guide](https://betterprogramming.pub/the-clean-architecture-beginners-guide-e4b7058c1165)
+- [Flutter Clean Architecture + TDD](https://resocoder.com/flutter-clean-architecture-tdd/)
 
 ## Videos
 
