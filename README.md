@@ -1,4 +1,4 @@
-# Be A Developer Guide
+# Dev Codex
 
 This repository serves as a curated list of articles, resources, and materials to help you improve your skills and broaden your knowledge as a developer. Whether you are a beginner just starting out, or an experienced professional seeking to deepen your expertise, this guide can help point you in the right direction.
 
